@@ -1,0 +1,23 @@
+Example 1: Django's Hello World Program
+
+*Create a Django project and an app.
+*Define a view function that returns a simple HttpResponse.
+*Map the view to a URL in the app's urls.py.
+*Run the server and access the view.
+
+Example 2: Improve Example 1 Using MVT
+
+*Create a template for the HTML page.
+*Modify the view to render the template.
+*Ensure the project's settings.py is configured to find templates.
+
+Example 3: Cloud Message Board
+
+*Define models for storing messages.
+*Create views for submitting and retrieving messages.
+*Map views to URLs.
+
+Example 4: Testing Different Django Response Types
+
+*Create views that return different types of responses.
+*Map each view to a unique URL.
